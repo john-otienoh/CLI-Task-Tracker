@@ -1,5 +1,7 @@
 # Task Tracker
 
+[![wakatime](https://wakatime.com/badge/user/6d7c48ee-9185-4251-a234-e029aa6b148d/project/ae9fca07-65f1-4a01-b13e-71208ddf6306.svg)](https://wakatime.com/badge/user/6d7c48ee-9185-4251-a234-e029aa6b148d/project/ae9fca07-65f1-4a01-b13e-71208ddf6306)
+
 Build a CLI app to track your tasks and manage your to-do list.</br>
 Task tracker is a project used to track and manage your tasks. In this task, you will build a simple command line interface (CLI) to track what you need to do, what you have done, and what you are currently working on. This project will help you practice your programming skills, including working with the filesystem, handling user inputs, and building a simple CLI application.
 
@@ -115,5 +117,5 @@ go build -o task-tracker
 
 You can view the project here [Task Tracker](https://roadmap.sh/projects/task-tracker)
 </br>
-My submision link is [here](https://roadmap.sh/projects/task-tracker/solutions?u=6724c2b131d65c235d088343)
+My submision link is [click here](https://roadmap.sh/projects/task-tracker/solutions?u=6724c2b131d65c235d088343)
 Happy coding!
